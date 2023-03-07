@@ -10,7 +10,7 @@ Git, Flask, Laravel, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Vag
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on a musical app interface
  
  🌱 I’m currently in Specialisation(Frontend) phase of my study in Software enginerring with ALX Africa.
  
